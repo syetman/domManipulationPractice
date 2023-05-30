@@ -1,21 +1,2 @@
-//DOM manipulation
-
-
-
-//document.getElementById
-
-
-
-//document.getElementsByClassName
-
-
-
-//document.getElementsByTagName
-
-
-
-//document.querySelector
-
-
-
-//document.querySelectorAll
+const title  = document.querySelector('#main-heading');
+console.log(title);
